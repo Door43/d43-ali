@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ali:home|Door43 (ali)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ali|d43-ali repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ali/archive/master.zip|d43-ali.zip]]
+
+**Recent Changes**
+{{changes>ns = ali}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ali|Ethnologue data]]
+
